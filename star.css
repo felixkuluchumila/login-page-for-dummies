@@ -1,0 +1,318 @@
+
+.wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -150px;
+}
+.square{
+    width: 20rem;
+    height: 20rem;
+    border: 1px solid black;
+    position: absolute;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+}
+#s0{
+    animation-name: a0;
+}
+
+@keyframes a0{
+    50% {
+        transform: rotate(10deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s1{
+    animation-name: a1;
+}
+@keyframes a1{
+    50% {
+        transform: rotate(20deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s2{
+    animation-name: a2;
+}
+@keyframes a2{
+    50% {
+        transform: rotate(30deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s3{
+    animation-name: a3;
+}
+@keyframes a3{
+    50% {
+        transform: rotate(40deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s4{
+    animation-name: a4;
+}
+@keyframes a4{
+    50% {
+        transform: rotate(50deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s5{
+    animation-name: a5;
+}
+@keyframes a5{
+    50% {
+        transform: rotate(60deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s6{
+    animation-name: a6;
+}
+@keyframes a6{
+    50% {
+        transform: rotate(70deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s7{
+    animation-name: a7;
+}
+@keyframes a7{
+    50% {
+        transform: rotate(80deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s8{
+    animation-name: a8;
+}
+@keyframes a8{
+    50% {
+        transform: rotate(90deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s9{
+    animation-name: a9;
+}
+@keyframes a9{
+    50% {
+        transform: rotate(100deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s10{
+    animation-name: a10;
+}
+@keyframes a10{
+    50% {
+        transform: rotate(110deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s11{
+    animation-name: a11;
+}
+@keyframes a11{
+    50% {
+        transform: rotate(120deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s12{
+    animation-name: a12;
+}
+@keyframes a12{
+    50% {
+        transform: rotate(130deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s13{
+    animation-name: a13;
+}
+@keyframes a13{
+    50% {
+        transform: rotate(140deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s14{
+    animation-name: a14;
+}
+@keyframes a14{
+    50% {
+        transform: rotate(150deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s15{
+    animation-name: a15;
+}
+@keyframes a15{
+    50% {
+        transform: rotate(160deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s16{
+    animation-name: a16;
+}
+@keyframes a16{
+    50% {
+        transform: rotate(170deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s17{
+    animation-name: a17;
+}
+@keyframes a17{
+    50% {
+        transform: rotate(180deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s18{
+    animation-name: a18;
+}
+@keyframes a18{
+    50% {
+        transform: rotate(190deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s19{
+    animation-name: a19;
+}
+@keyframes a19{
+    50% {
+        transform: rotate(200deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s20{
+    animation-name: a20;
+}
+@keyframes a20{
+    50% {
+        transform: rotate(210deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s21{
+    animation-name: a21;
+}
+@keyframes a21{
+    50% {
+        transform: rotate(220deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s22{
+    animation-name: a22;
+}
+@keyframes a22{
+    50% {
+        transform: rotate(230deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s23{
+    animation-name: a23;
+}
+@keyframes a23{
+    50% {
+        transform: rotate(240deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s24{
+    animation-name: a24;
+}
+@keyframes a24{
+    50% {
+        transform: rotate(250deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s25{
+    animation-name: a25;
+}
+@keyframes a25{
+    50% {
+        transform: rotate(260deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s26{
+    animation-name: a26;
+}
+@keyframes a26{
+    50% {
+        transform: rotate(270deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s27{
+    animation-name: a27;
+}
+@keyframes a27{
+    50% {
+        transform: rotate(280deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s28{
+    animation-name: a28;
+}
+@keyframes a28{
+    50% {
+        transform: rotate(290deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
+#s29{
+    animation-name: a29;
+}
+@keyframes a29{
+    50% {
+        transform: rotate(300deg);
+        height: 2.5rem;
+        border-radius: 50%;
+    }
+}
