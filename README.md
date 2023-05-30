@@ -1,10 +1,10 @@
 # Login Page for Dummies 🤓
 
-Welcome to the Login Page for Dummies project! This project aims to make the login process as easy as pie, even for the dummies out there. 😄
+Welcome to the Login Page for Dummies project! This project aims to make the login process as easy as pie, even for the dummies out there. It combines both the elements of Registration and Login, suppose You Just Register and bam Land on The Dashboard with such a mind Blowing Star animation😄
 
 ## Features
 
-- Simple and user-friendly login form with PHP, CSS, and JS.
+- Simple and user-friendly Registration form with PHP, CSS, and JS.
 - Captivating star animation to keep you entertained while logging in. ✨✨✨
 - Hilarious output that recapitulates your information in a witty way. 🤣
 - A touch of magic to transform your password into a hashed version. 🔒💫
@@ -12,8 +12,7 @@ Welcome to the Login Page for Dummies project! This project aims to make the log
 ## How to Use
 
 1. Clone the repository:
-`git clone https://github.com/your-username/login-page-for-dummies.git`
-
+https://github.com/felixkuluchumila/login-page-for-dummies
 
 
 2. Open the `index.php` file in your favorite web browser.
