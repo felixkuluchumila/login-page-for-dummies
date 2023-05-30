@@ -10,14 +10,15 @@ Welcome to the Login Page for Dummies project! This project aims to make the log
 - A touch of magic to transform your password into a hashed version. 🔒💫
 
 ## How to Use
+1. Create a Project folder under /var/www/html for linux users, or xampp\htdocs on windows
 
-1. Clone the repository:
+2. Clone the repository:
 https://github.com/felixkuluchumila/login-page-for-dummies
 
 
-2. Open the `index.php` file in your favorite web browser.
+3. Open the `index.php` file in your favorite web browser.
 
-3. Enjoy the amusing login experience and explore the wonderful features!
+4. Enjoy the amusing login experience and explore the wonderful features!
 
 ## Contributing
 
